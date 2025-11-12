@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/Downloads/excercise_chunking_vector_db/.idea/excercise_chunking_vector_db.iml" filepath="$USER_HOME$/Downloads/excercise_chunking_vector_db/.idea/excercise_chunking_vector_db.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/rag_project.iml" filepath="$PROJECT_DIR$/.idea/rag_project.iml" />
     </modules>
   </component>
